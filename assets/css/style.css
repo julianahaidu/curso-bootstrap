@@ -18,7 +18,7 @@ header, nav, main {
 }
 
 nav, main {
-    min-height: 82vh;
+    min-height: 82vhs;
 }
 @media (min-width: 576px) {
    
