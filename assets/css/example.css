@@ -3,7 +3,9 @@
 }
 
 .row > .col,
-.row > [class^=col-] {
+.row > [class^=col-], 
+.bg {
+
 padding-top: .75rem;
 padding-bottom: .75rem;
 background-color: rgba(243, 117, 32, .15); 
